@@ -24,7 +24,8 @@ Soy un profesional bilingüe con más de 6 años de experiencia en TI.
 &nbsp; ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 <!--     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a> -->
 
-![MySQL](https://img.shields.io/badge/-MySQL?style=flat&logo=mysql)
+&nbsp;    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-white?style=flat&logo=mysql"/>
+<!-- &nbsp; ![MySQL](https://img.shields.io/badge/-MySQL?style=flat&logo=mysql) -->
 &nbsp;    <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"/>
 &nbsp; ![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-333333?style=flat&logo=VisualStudioCode&logoColor=007ACC)
 <!--     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a> -->
