@@ -2,7 +2,7 @@
 ## Técnico en administración de redes computacionales, programación y análisis de sistemas
 
 
-I am a bilingual professional with more than 6 years of IT experience.
+I am a bilingual professional with more than 6 years of IT experience. <br>
 Soy un profesional bilingüe con más de 6 años de experiencia en TI.
 
 📫 Contacto / Reach me 📫 
@@ -11,7 +11,7 @@ Soy un profesional bilingüe con más de 6 años de experiencia en TI.
 
 ## Stacks & Interests 👨‍💻
 
-
+"
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
 ![JavaScript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=Javascript)&nbsp;
     <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
@@ -28,7 +28,7 @@ Soy un profesional bilingüe con más de 6 años de experiencia en TI.
 ![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-333333?style=flat&logo=VisualStudioCode&logoColor=007ACC)&nbsp;
 
 
-    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
+ "   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
 
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;\
 ![Firebase](https://img.shields.io/badge/-firebase-333333?style=flat&logo=firebase)&nbsp;
