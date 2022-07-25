@@ -1,14 +1,15 @@
-# align="center" Javier Suárez Guzmán</h1>
-##Técnico en administración de redes computacionales, programación y análisis de sistemas</h2>
+# Javier Suárez Guzmán
+## Técnico en administración de redes computacionales, programación y análisis de sistemas
 
 
 I am a bilingual professional with more than 6 years of IT experience.
 Soy un profesional bilingüe con más de 6 años de experiencia en TI.
 
 📫 Contacto / Reach me 📫 
+
 <a href="https://www.linkedin.com/in/javier-suarez-guzman/"><img src="https://img.shields.io/badge/Javier%20Su%C3%A1rez%20Guzm%C3%A1n-blue?logo=Linkedin&logoColor=white"/></a>
 
-##Stacks & Interests 👨‍💻
+## Stacks & Interests 👨‍💻
 
 
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
@@ -24,15 +25,14 @@ Soy un profesional bilingüe con más de 6 años de experiencia en TI.
     <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 ![MySQL](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql)&nbsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-333333?style=flat&logo=VisualStudioCode&logoColor=007ACC)&nbsp;\
+![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-333333?style=flat&logo=VisualStudioCode&logoColor=007ACC)&nbsp;
 
 
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
 
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;\
 ![Firebase](https://img.shields.io/badge/-firebase-333333?style=flat&logo=firebase)&nbsp;
-![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-333333?style=flat&logo=AndroidStudio)&nbsp;\
-
+![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-333333?style=flat&logo=AndroidStudio)&nbsp;
 
 
 
