@@ -29,8 +29,8 @@ Soy un profesional bilingüe con más de 6 años de experiencia en TI.
 
 
  "   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
- <img alt="C#" src="https://img.shields.io/badge/-C%23-white?logo=C%23&logoColor=white">
-![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=C%23)&nbsp;
+ <img alt="C#" src="https://img.shields.io/badge/-C%23-white?logo=CSharp&logoColor=white">
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=CSharp)&nbsp;
 
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;\
 ![Firebase](https://img.shields.io/badge/-firebase-333333?style=flat&logo=firebase)&nbsp;
