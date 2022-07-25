@@ -44,7 +44,7 @@ Soy un profesional bilingüe con más de 6 años de experiencia en TI.
 <br>
 
 ## 💼 Port(a)folio 💼
-<a href="https://github.com/JavierSuarezGuzman">https://github.com/JavierSuarezGuzman</a>
+<a href="https://github.com/JavierSuarezGuzman"><img src="https://img.shields.io/badge/Javier%20Su%C3%A1rez%20Guzm%C3%A1n-black?logo=Github&logoColor=white"/></a>
 
 
 
