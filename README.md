@@ -15,16 +15,17 @@ Soy un profesional bilingüe con más de 6 años de experiencia en TI.
 
 ![JavaScript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=Javascript)
 <!--     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a> -->
-![HTML]<!-- (https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5) -->
-    <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-![CSS]<!-- (https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) -->
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-![Java]<!-- (https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518) -->
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
+<!-- ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5) -->
+    <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white">
+<!-- ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) -->
+     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+<!-- ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518) -->
+     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 <!--     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a> -->
+
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-    <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+    <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"/>
 ![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-333333?style=flat&logo=VisualStudioCode&logoColor=007ACC)
 <!--     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a> -->
 
