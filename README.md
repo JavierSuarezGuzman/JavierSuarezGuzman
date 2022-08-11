@@ -1,11 +1,14 @@
 # Javier Suárez Guzmán
+
 ## Técnico en administración de redes computacionales, programación y análisis de sistemas
 
 I am a bilingual professional with more than 6 years of IT experience. <br>
 Soy un profesional bilingüe con más de 6 años de experiencia en TI.
 
 ### 📫 Reach me 📫 
-<a href="https://www.linkedin.com/in/javier-suarez-guzman/"><img src="https://img.shields.io/badge/Javier%20Su%C3%A1rez%20Guzm%C3%A1n-blue?logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/javier-suarez-guzman/">
+<img src="https://img.shields.io/badge/Javier%20Su%C3%A1rez%20Guzm%C3%A1n-blue?logo=Linkedin&logoColor=white"/>
+</a>
 
 
 ## Stacks & Interests 👨‍💻
@@ -14,7 +17,7 @@ Soy un profesional bilingüe con más de 6 años de experiencia en TI.
  <!-- dos estilos distintos de llamar los shields, aprendidos al ver los README.md de otras personas -->
 
 &nbsp; ![JavaScript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=Javascript)
-<!--     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a> -->
+<!-- <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a> -->
 <!-- ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5) -->
 &nbsp;  <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white">
 <!-- ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) -->
@@ -24,9 +27,9 @@ Soy un profesional bilingüe con más de 6 años de experiencia en TI.
 &nbsp; ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 <!--     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a> -->
 
-&nbsp;    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-white?style=flat&logo=mysql"/>
+&nbsp;  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-white?style=flat&logo=mysql"/>
 <!-- &nbsp; ![MySQL](https://img.shields.io/badge/-MySQL?style=flat&logo=mysql) -->
-&nbsp;    <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"/>
+&nbsp;  <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"/>
 &nbsp; ![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-333333?style=flat&logo=VisualStudioCode&logoColor=007ACC)
 <!--     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a> -->
 
@@ -44,7 +47,9 @@ Soy un profesional bilingüe con más de 6 años de experiencia en TI.
 <br>
 
 ## 💼 Port(a)folio 💼
-<a href="https://github.com/JavierSuarezGuzman"><img src="https://img.shields.io/badge/Javier%20Su%C3%A1rez%20Guzm%C3%A1n-black?logo=Github&logoColor=white"/></a>
+<a href="https://github.com/JavierSuarezGuzman">
+<img src="https://img.shields.io/badge/Javier%20Su%C3%A1rez%20Guzm%C3%A1n-black?logo=Github&logoColor=white"/>
+</a>
 
 
 
