@@ -35,8 +35,9 @@ Soy un profesional bilingüe con más de 6 años de experiencia en TI.
 
 
 &nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-<!-- ![Firebase](https://img.shields.io/badge/-firebase-333333?style=flat&logo=firebase) -->
+&nbsp; ![Firebase](https://img.shields.io/badge/-firebase-333333?style=flat&logo=firebase)
 &nbsp; ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-333333?style=flat&logo=AndroidStudio)
+&nbsp; ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
 
 &nbsp; ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=Unity) 
 &nbsp; ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=CSharp)
