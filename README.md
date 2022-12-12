@@ -2,8 +2,8 @@
 
 ## Técnico en administración de redes computacionales, programación y análisis de sistemas
 
-I am a bilingual professional with more than 6 years of IT experience. <br>
-Soy un profesional bilingüe con más de 6 años de experiencia en TI.
+I am a bilingual professional with more than 7 years of IT experience. <br>
+Soy un profesional bilingüe con más de 7 años de experiencia en TI.
 
 ### 📫 Reach me 📫 
 <a href="https://www.linkedin.com/in/javier-suarez-guzman/">
