@@ -1,4 +1,4 @@
-/* Javier "KuaKer" Suárez Guzmán */
+/* Javier "Kuak" Suárez Guzmán */
 
 
 /* body {
@@ -10,8 +10,12 @@
   text-align: center;
 }
 
+.right {
+    text-align: right;
+}
+
 .noche {
-background-color: #091133;
+background-color: #090919;
 color: #a3b3bb;
 }
 
